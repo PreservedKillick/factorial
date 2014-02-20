@@ -8,7 +8,7 @@ var factorial = function(number) {
   }
 
 return result;
-11
+
 };
 
 
